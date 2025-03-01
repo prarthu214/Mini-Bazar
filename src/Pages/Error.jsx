@@ -9,6 +9,8 @@ export default function Error() {
       // jpg?t=st=1740803951~exp=1740807551~hmac=5970bea8bdb9dc91219d53ddf19c988530b6b6e5c9eb17b13dd71f6a59cea6bd&w=1380"
       alt="" />
       <h>hi am</h>
+      <h>hi am</h>
+      <h>hi am</h>
     </div>
   );
   
